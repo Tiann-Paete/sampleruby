@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/order-record": "pages/order-record.js",
+  "/api/[...nextapi]": "pages/api/[...nextapi].js",
+  "/my-orders": "pages/my-orders.js",
+  "/letchon": "pages/letchon.js",
+  "/profile": "pages/profile.js",
+  "/": "pages/index.js"
+}
